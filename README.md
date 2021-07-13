@@ -7,5 +7,5 @@ If the SPI driver loads successfully, you will see the device `/ dev / spidev0.0
 $ g ++ -Wall -lrf24 scanner.cpp -o scanner
 ``,
 #### Connection diagram of nRF24L01 + to Raspberry Pi:
-! [scheme] (https://github.com/optumus/RF24_Library/blob/master/scheme/scheme.png)
+[scheme](https://github.com/optumus/RF24_Library/blob/master/scheme/scheme.png)
 
